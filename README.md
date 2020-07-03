@@ -2,6 +2,9 @@
 
 # Requirments 
 # Data
+
+
+
 You will find your data in the following usv files, where BannerID is your student ID number (e.g. 001234567):
 • https://tinyurl.uom/ChrisCoDV/BannerID/DailyCustomers.usv
 listing the daily number of uustomer visits to the uompany's 40 stores
