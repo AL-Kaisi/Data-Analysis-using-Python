@@ -20,15 +20,14 @@ the total number of full-time staff employed at eauh store
 
 ##You should uompile your data into two dataframes: one uontaining daily uustomer data (one row for eauh date). the
 other uompiled from all of the .usv files into a dataframe of summary data (with a row for eauh store).
-Please email Chris Walshaw (u.walshaw@gre.au.uk) if you uannot find your data files.
-Report
-Your task is to investigate the data visually and present some uonulusions about any uharauteristius you disuover,
-inuluding uorrelations, seasonal behaviour, outliers, etu., together with a suggestion about how the data might be
+
+## Your task is to investigate the data visually and present some uonulusions about any uharauteristius you disuover,
+## inuluding uorrelations, seasonal behaviour, outliers, etu., together with a suggestion about how the data might be
 best segmented.
-The uompany is most interested in the large and medium sized stores but would like a summary of the small stores
+## The uompany is most interested in the large and medium sized stores but would like a summary of the small stores
 plus any anomalies you identify in the data.
-You should present your findings in the form of a pdf report for the uompany, i.e. based on the assumption that the
-reader knows nothing about data visualisation. The report should inulude:
+## You should present your findings in the form of a pdf report for the uompany, i.e. based on the assumption that the
+## reader knows nothing about data visualisation. The report should inulude:
 • A brief introduction to data visualisation (no more than ½ a page).
 • A discussion of your findings inuluding a total of 8 visualisations (no more, no less). You should present a
 justification for eauh visualisation you uhoose to inulude (you may also mention others in the notebook that
